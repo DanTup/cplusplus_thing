@@ -1,0 +1,27 @@
+Microsoft (R) COFF/PE Dumper Version 14.14.26429.4
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file echo_lib.dll
+
+File Type: DLL
+
+  Section contains the following exports for echo_lib.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           1 number of functions
+           1 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000010D0 ?echo@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+
+  Summary
+
+        2000 .data
+        E000 .rdata
+        2000 .reloc
+       1D000 .text
